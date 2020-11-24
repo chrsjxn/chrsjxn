@@ -5,8 +5,7 @@
 - a senior web engineer (JS/TS, React, Node, ...)
 - a much less senior dev ops engineer (k8s, Jenkins, AWS, ...)
 - a champion for inclusive, welcoming, and respectful team culture
-- still grateful that my work in mentorship, team building, and code review was celebrated by my peers!
-  - Even if it means many people now own a pin with my face on it...
+- still feeling a little weird that my coworkers have buttons with my face on them
 
 ## :fire: :raised_hands: :rocket: :rofl: :nerd_face: :fist_right: :fist_left:
 
